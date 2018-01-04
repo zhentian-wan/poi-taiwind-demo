@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zhentian-wan/poi-taiwind-demo/issues"
   },
-  "homepage": "https://github.com/zhentian-wan/poi-taiwind-demo#readme"
+  "homepage": "https://github.com/zhentian-wan/poi-taiwind-demo#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.4.0"
+  }
 }
